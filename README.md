@@ -22,8 +22,8 @@ const mominaRashad = {
   title: "Full Stack AI Developer",
   stack: {
     languages: ["JavaScript (ES6+)", "TypeScript", "Python", "C++", "C#", "SQL"],
-    frontend: ["React.js", "HTML5", "CSS3", "Tailwind CSS", "Bootstrap"],
-    backend: ["Node.js", "Express.js", "RESTful APIs", "GraphQL", "FastAPI", "Flask"],
+    frontend: ["React.js","Next.js", "HTML5", "CSS3", "Tailwind CSS", "Bootstrap"],
+    backend: ["Node.js", "Express.js", "RESTful APIs", "GraphQL", "FastAPI", "Flask","ASP.NET"],
     databases: ["MongoDB", "MongoDB Atlas", "MySQL", "Redis"],
     cloudAndDevOps: ["AWS", "Docker", "CI/CD", "Git", "GitHub", "GitLab", "Postman"],
     ai: ["LangGraph", "LangChain", "TF-IDF & Semantic Search", "ML Classification"]
