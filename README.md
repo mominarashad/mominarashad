@@ -3,7 +3,7 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=7dd3fc&height=200&section=header&text=Momina%20Rashad&fontSize=60&animation=twinkling&fontAlignY=35&desc=Full%20Stack%20AI%20Developer&descAlignY=55&descAlign=50&fontColor=1a1a2e)
 
 <a href="https://github.com/mominarashad">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full+Stack+AI+Developer;MERN+%2B+AI%2FLLM+Engineering;Building+Scalable+Backend+Systems;Turning+Ideas+Into+Production+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7DD3FC&center=true&vCenter=true&width=600&lines=Full+Stack+AI+Developer;ASP.NET+%2B+Next.js+and+Python+%2B+FastAPI+based+applications;+MERN+%2B+AI%2FLLM+Engineering;Building+Scalable+Backend+Systems;Turning+Ideas+Into+Production+Code" alt="Typing SVG" />
 </a>
 
 ![Open to Work](https://img.shields.io/badge/OPEN%20TO%20WORK-7dd3fc?style=for-the-badge&logoColor=1a1a2e)
